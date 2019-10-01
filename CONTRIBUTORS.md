@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Michel](https://github.com/miensjel)
+- Place: Netherlands
+- Bio: High-school, technology enthusiast
+- GitHub: [miensjel](https://github.com/miensjel)
